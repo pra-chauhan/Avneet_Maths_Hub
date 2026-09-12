@@ -1,0 +1,6 @@
+{
+  "name": "Avneet Maths Hub",
+  "description": "Complete offline mathematics coaching management system and website for Classes 7th to 12th by Mr. Avneet Chauhan in Bahadrabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
